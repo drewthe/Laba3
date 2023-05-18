@@ -1,0 +1,1 @@
+D:\VS PROJECT\Laba\ToDoMauiClient\ToDoMauiClient\ToDoMauiClient.csproj;x64
